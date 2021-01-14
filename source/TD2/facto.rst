@@ -9,7 +9,7 @@ Ecrire une fonction *facto(n)* qui renvoie la factorielle d'un entier naturel *n
 
 
 
-.. easypython:: /exercices/facto.r
+.. easypython:: /TD2/facto.r
    :language: R
    :titre: Exercice R factorielle
 
