@@ -2,7 +2,7 @@ nom_solution <- "facto"
 
 fonctionsAtt<-c("return")
 
-facto<-function(n){return(prod(1:n)}
+facto<-function(n){return(prod(1:n))}
 
 tests<-list(
     list("0",reponse=facto(0))

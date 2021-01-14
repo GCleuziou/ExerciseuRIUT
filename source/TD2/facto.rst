@@ -5,7 +5,7 @@ Ecrire une fonction *facto(n)* qui renvoie la factorielle d'un entier naturel *n
 
 .. code:: R
 
-    facto<-function(n){return(prod(1:n)}
+    facto<-function(n){return(prod(1:n))}
 
 
 
