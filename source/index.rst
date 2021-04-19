@@ -11,7 +11,6 @@ Les sujets de TP:
 .. toctree::
    :maxdepth: 2
 
-   td2
    tp1
    demo_exerciseur
    demo_pcap_juin_2018
